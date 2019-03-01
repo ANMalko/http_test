@@ -1,0 +1,6 @@
+-i https://devpi.my.cloud.devmail.ru/developer/dev
+
+aiohttp==3.5.4
+aiojobs==0.2.2
+ujson==1.35
+uvloop==0.12.1
